@@ -1,4 +1,4 @@
-# BIB2RIS -- COnvert BIB to RIS
+# BIB2RIS -- Convert BIB to RIS
 This script allows you to convert bib files to the ris format
 
 ## Usage
